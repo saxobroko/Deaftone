@@ -31,7 +31,7 @@ https://github.com/Ortygia/Orpheus currently in early stages of development but 
 * Android based application possibly native or using Tauri Mobile
 
 # Roadmap
-* Built-in metadata scrapping of sources such as MusicBrainz, LastFM and AllMusic
+* Built-in metadata scraping of sources such as MusicBrainz, LastFM and AllMusic
 * SlimProto Support
 * Playlist Curation
 * Recommendation engine
@@ -39,7 +39,7 @@ https://github.com/Ortygia/Orpheus currently in early stages of development but 
 * Radio mode
 
 # Installation
-Currently to setup and install Deaftone you need to download the binarie in release for you platform or clone and build the repo.
+Currently to setup and install Deaftone you need to download the binary in releases for your platform or clone and build the repo.
 After you have your binary in the same folder you need to place a ``settings.toml`` with the following inside it
 ```
 log_level="deaftone=info,tower_http=info"
